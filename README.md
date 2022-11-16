@@ -37,9 +37,9 @@
   <h3 align="center">GaggiaWS (Gaggia Web Services)</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    These are web services to allow a ESP32 to connect and get more information from the web. At the beginning it will give fake data for the termometers etc. It allows my WOKWI to work for now
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://wokwi.com/projects/348434390972367443"><strong>ESP32 Simulator of the GaggiaUINO (arduino Gaggia)</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
