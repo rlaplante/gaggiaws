@@ -30,7 +30,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="http://http://104.163.163.199/data">
     <img src="gaggia.svg" alt="GaggiaWS" width="80" height="80">
   </a>
 
