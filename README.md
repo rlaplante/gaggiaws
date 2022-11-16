@@ -30,7 +30,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="http://http://104.163.163.199/data">
+  <a href="http://104.163.163.199/data?caller=github">
     <img src="gaggia.svg" alt="GaggiaWS" width="80" height="80">
   </a>
 
